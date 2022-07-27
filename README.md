@@ -19,3 +19,6 @@ This is a simple example of dash/plotly deployment on server using flask, gunico
 3. docker-compose up
 ```
 Then, If you built it localy visit: 127.0.0.1:5000 otherwise, use your server ip xxx.xxx.xxx.xxx:5000 to see the dashboard.
+
+### Pushing docker image method
+https://stackoverflow.com/a/44982036/19380984
